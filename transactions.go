@@ -68,7 +68,6 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-
 		fmt.Println(tx.Hash().Hex()) // 0x5d49fcaa394c97ec8a9c3e7bd9e8388d420fb050a52083ca52ff24b3b65bc9c2
 	}
 
