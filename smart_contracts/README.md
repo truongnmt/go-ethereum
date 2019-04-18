@@ -1,6 +1,10 @@
+# smart-contracts-with-go
+A simple example of how to deploy and interact with ETH smart contracts using Golang.
+
 ## Prerequisites
 - [solc](http://solidity.readthedocs.io/en/develop/installing-solidity.html)
 - geth (go-ethereum)
+- Ethereum node (Parity, Geth, Infura ...)
 
 ```
 go get github.com/ethereum/go-ethereum
