@@ -28,3 +28,7 @@ go run main.go inbox.go
 go run get_message.go inbox.go
 go run set_message.go inbox.go    
 ```
+
+Ref: 
+- [A Step By Step Guide To Testing and Deploying Ethereum Smart Contracts in Go](https://hackernoon.com/a-step-by-step-guide-to-testing-and-deploying-ethereum-smart-contracts-in-go-9fc34b178d78)
+- [Smart Contract Compilation & ABI](https://goethereumbook.org/en/smart-contract-compile/)
